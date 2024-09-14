@@ -80,8 +80,6 @@
 			</plugins>
 		</build>
 	</profile>
-<<<<<<< HEAD
-=======
 	<profile>
 		<id>Daily</id>
 		<build>
@@ -99,7 +97,6 @@
 			</plugins>
 		</build>
 	</profile>
->>>>>>> ab14aa9 (Add Daily in pom.xml)
 </profiles>
 
 

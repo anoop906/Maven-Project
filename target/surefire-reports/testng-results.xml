@@ -1,51 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-13T16:03:25 IST" name="Suite" finished-at="2024-09-13T16:03:54 IST" duration-ms="28273">
+  <suite started-at="2024-09-14T21:31:55 IST" name="Suite" finished-at="2024-09-14T21:33:53 IST" duration-ms="118371">
     <groups>
     </groups>
-    <test started-at="2024-09-13T16:03:25 IST" name="Test" finished-at="2024-09-13T16:03:54 IST" duration-ms="28273">
+    <test started-at="2024-09-14T21:31:55 IST" name="Test" finished-at="2024-09-14T21:33:53 IST" duration-ms="118371">
       <class name="practise.SecondTest">
-        <test-method signature="mSecond()[pri:0, instance:practise.SecondTest@4f18837a]" started-at="2024-09-13T16:03:26 IST" name="mSecond" finished-at="2024-09-13T16:03:26 IST" duration-ms="3" status="PASS">
+        <test-method signature="mSecond()[pri:0, instance:practise.SecondTest@7f0eb4b4]" started-at="2024-09-14T21:33:53 IST" name="mSecond" finished-at="2024-09-14T21:33:53 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mSecond -->
       </class> <!-- practise.SecondTest -->
-      <class name="practise.FourthTest">
-        <test-method signature="mFourth()[pri:0, instance:practise.FourthTest@359f7cdf]" started-at="2024-09-13T16:03:26 IST" name="mFourth" finished-at="2024-09-13T16:03:26 IST" duration-ms="15" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- mFourth -->
-      </class> <!-- practise.FourthTest -->
       <class name="practise.ThirdTest">
-        <test-method signature="thirdTest()[pri:0, instance:practise.ThirdTest@5af3afd9]" started-at="2024-09-13T16:03:26 IST" name="thirdTest" finished-at="2024-09-13T16:03:26 IST" duration-ms="20" status="PASS">
+        <test-method signature="thirdTest()[pri:0, instance:practise.ThirdTest@5c33f1a9]" started-at="2024-09-14T21:33:53 IST" name="thirdTest" finished-at="2024-09-14T21:33:53 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- thirdTest -->
       </class> <!-- practise.ThirdTest -->
       <class name="practise.HyrOneTest">
-        <test-method signature="hyrpage()[pri:0, instance:practise.HyrOneTest@a514af7]" started-at="2024-09-13T16:03:26 IST" name="hyrpage" finished-at="2024-09-13T16:03:53 IST" duration-ms="27459" status="PASS">
+        <test-method signature="hyrpage()[pri:0, instance:practise.HyrOneTest@323b36e0]" started-at="2024-09-14T21:31:55 IST" name="hyrpage" finished-at="2024-09-14T21:33:52 IST" duration-ms="116877" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- hyrpage -->
-        <test-method is-config="true" signature="close()[pri:0, instance:practise.HyrOneTest@a514af7]" started-at="2024-09-13T16:03:53 IST" name="close" finished-at="2024-09-13T16:03:54 IST" duration-ms="619" status="PASS">
-=======
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
-  <reporter-output>
-  </reporter-output>
-  <suite started-at="2024-09-14T18:16:27 IST" name="Suite" finished-at="2024-09-14T18:19:21 IST" duration-ms="174504">
-    <groups>
-    </groups>
-    <test started-at="2024-09-14T18:16:27 IST" name="Test" finished-at="2024-09-14T18:19:21 IST" duration-ms="174504">
-      <class name="practise.HyrOneTest">
-        <test-method signature="hyrpage()[pri:0, instance:practise.HyrOneTest@7c729a55]" started-at="2024-09-14T18:16:27 IST" name="hyrpage" finished-at="2024-09-14T18:19:18 IST" duration-ms="170701" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- hyrpage -->
-        <test-method is-config="true" signature="close()[pri:0, instance:practise.HyrOneTest@7c729a55]" started-at="2024-09-14T18:19:18 IST" name="close" finished-at="2024-09-14T18:19:21 IST" duration-ms="3361" status="PASS">
->>>>>>> ab14aa9 (Add Daily in pom.xml)
+        <test-method is-config="true" signature="close()[pri:0, instance:practise.HyrOneTest@323b36e0]" started-at="2024-09-14T21:33:52 IST" name="close" finished-at="2024-09-14T21:33:53 IST" duration-ms="1103" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
