@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="hyrTytorial.HyrOneTest">
+      <class name="practise.HyrOneTest">
         <methods>
           <include name="hyrpage"/>
           <include name="close"/>
         </methods>
-      </class> <!-- hyrTytorial.HyrOneTest -->
+      </class> <!-- practise.HyrOneTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

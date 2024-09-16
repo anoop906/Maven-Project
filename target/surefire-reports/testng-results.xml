@@ -1,29 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-14T21:31:55 IST" name="Suite" finished-at="2024-09-14T21:33:53 IST" duration-ms="118371">
+  <suite started-at="2024-09-14T22:07:57 IST" name="Suite" finished-at="2024-09-14T22:08:19 IST" duration-ms="22238">
     <groups>
     </groups>
-    <test started-at="2024-09-14T21:31:55 IST" name="Test" finished-at="2024-09-14T21:33:53 IST" duration-ms="118371">
+    <test started-at="2024-09-14T22:07:57 IST" name="Test" finished-at="2024-09-14T22:08:19 IST" duration-ms="22238">
       <class name="practise.SecondTest">
-        <test-method signature="mSecond()[pri:0, instance:practise.SecondTest@7f0eb4b4]" started-at="2024-09-14T21:33:53 IST" name="mSecond" finished-at="2024-09-14T21:33:53 IST" duration-ms="3" status="PASS">
+        <test-method signature="mSecond()[pri:0, instance:practise.SecondTest@4f18837a]" started-at="2024-09-14T22:07:57 IST" name="mSecond" finished-at="2024-09-14T22:07:57 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mSecond -->
       </class> <!-- practise.SecondTest -->
+      <class name="practise.FourthTest">
+        <test-method signature="mFourth()[pri:0, instance:practise.FourthTest@359f7cdf]" started-at="2024-09-14T22:07:57 IST" name="mFourth" finished-at="2024-09-14T22:07:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mFourth -->
+      </class> <!-- practise.FourthTest -->
       <class name="practise.ThirdTest">
-        <test-method signature="thirdTest()[pri:0, instance:practise.ThirdTest@5c33f1a9]" started-at="2024-09-14T21:33:53 IST" name="thirdTest" finished-at="2024-09-14T21:33:53 IST" duration-ms="4" status="PASS">
+        <test-method signature="thirdTest()[pri:0, instance:practise.ThirdTest@5af3afd9]" started-at="2024-09-14T22:07:57 IST" name="thirdTest" finished-at="2024-09-14T22:07:57 IST" duration-ms="20" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- thirdTest -->
       </class> <!-- practise.ThirdTest -->
       <class name="practise.HyrOneTest">
-        <test-method signature="hyrpage()[pri:0, instance:practise.HyrOneTest@323b36e0]" started-at="2024-09-14T21:31:55 IST" name="hyrpage" finished-at="2024-09-14T21:33:52 IST" duration-ms="116877" status="PASS">
+        <test-method signature="hyrpage()[pri:0, instance:practise.HyrOneTest@a514af7]" started-at="2024-09-14T22:07:57 IST" name="hyrpage" finished-at="2024-09-14T22:08:19 IST" duration-ms="21387" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- hyrpage -->
-        <test-method is-config="true" signature="close()[pri:0, instance:practise.HyrOneTest@323b36e0]" started-at="2024-09-14T21:33:52 IST" name="close" finished-at="2024-09-14T21:33:53 IST" duration-ms="1103" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:practise.HyrOneTest@a514af7]" started-at="2024-09-14T22:08:19 IST" name="close" finished-at="2024-09-14T22:08:19 IST" duration-ms="660" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
